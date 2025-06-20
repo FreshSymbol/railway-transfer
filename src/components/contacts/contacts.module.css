@@ -1,0 +1,14 @@
+.link {
+  color: rgb(50, 155, 190);
+  font-size: 1em;
+  text-decoration: none;
+}
+
+.link:visited {
+  color: rgb(50, 155, 190);
+}
+
+.text {
+  color: #686767;
+  font-size: 0.9em;
+}
